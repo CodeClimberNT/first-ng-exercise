@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    padding: 15px;
+    background-color: rgb(136, 38, 228);  
+    color: white; 
+}
+
+div > h1 {
+    margin: 40px 10px 0px;
+
+}
+
+main, main > app-module-two{
+    margin: 10px;
+}
